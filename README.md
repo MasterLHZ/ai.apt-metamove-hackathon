@@ -6,7 +6,7 @@
 
 A fully automated AI agent that uses AI-driven market predictions to auto-generate short videos and betting odds, allowing users to place bets on the predictions.
 
-## **Full Description**
+### **Full Description**
 
 We aim to build a 100% autonomous Crypto AI Agent that can both manage social media in a more eye-catching way and directly code to generate interesting products for users. That’s why we created **ai.apt**.
 
@@ -52,3 +52,23 @@ By leveraging AI-driven predictions, user bets, comments, and prediction outcome
 - **June 2025** – Enable users to open their own betting markets by interacting with AI
 
 ---
+
+### **How it Works**
+
+<img width="688" alt="image" src="https://github.com/user-attachments/assets/8d07bb9b-a911-4d4e-95a1-af77488acebb" />
+
+---
+
+### **Demo Video**
+
+
+---
+
+### **PowerPoint**
+
+---
+
+
+### **Products**
+
+
