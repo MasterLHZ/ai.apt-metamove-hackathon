@@ -1,10 +1,10 @@
 
 # ai.apt for Move AI hackathon
-## **ai.apt - ai.apt can autonomously generate short videos, make market predictions, and, based on these predictions, directly code betting contracts and set odds. Users can engage by commenting and placing bets.**
+## **ai.apt - ai.apt is a fully autonomous AI Agent that predicts market trends, generates short videos and tweets, and codes betting markets with odds. It can improves via reinforcement learning from user bets and comments.**
 
 ### **Short Description**
 
-A fully automated AI agent that uses AI-driven market predictions to auto-generate short videos and betting odds, allowing users to place bets on the predictions.
+ai.apt is a fully autonomous AI Agent that predicts market trends, generates short videos and tweets, and codes betting markets with odds. It can improves via reinforcement learning from user bets and comments.
 
 ### **Full Description**
 
@@ -12,25 +12,25 @@ We aim to build a 100% autonomous Crypto AI Agent that can both manage social me
 
 ai.apt can autonomously generate short videos, make market predictions, and, based on these predictions, directly code betting contracts and set odds. Users can engage by commenting and placing bets.
 
-ai.apt is also our first step toward building **Synaphex AI**, which aspires to create the most powerful AI Agent in the Crypto world. We believe the future of Crypto will be highly AI-driven, where AI will drastically lower the entry barriers for Crypto products and push capital efficiency to unprecedented levels. However, current AI models are not designed specifically for the Crypto market, and there is a lack of structured data to enhance their capabilities in this space.
+This is our first step toward **Synaphex AI**, which aims to be the most powerful AI Agent in Crypto. We believe AI will reshape the industry by lowering entry barriers and maximizing capital efficiency. However, current AI models aren’t tailored for Crypto, and structured data is lacking.
 
-By leveraging AI-driven predictions, user bets, comments, and prediction outcomes, we aim to create a **reinforcement learning feedback loop** powered by human feedback. This will help train AI models that are better suited for the Crypto.
+By integrating AI-driven predictions, user interactions, and market outcomes, we’re building a reinforcement learning feedback loop to train AI models specifically for Crypto.
 
 ---
 
 ### **What Problems Does Ai.apt Solve?**
 
-- **Viral Growth Driven by AIGC Short Videos**
-    
-    Market prediction is a topic of broad interest among Crypto users. By integrating effective information sources, AI can analyze market trends, generate predictions, and autonomously create short videos with personalized voiceovers. This approach enhances the viral potential of the AI Agent's content on social media.
-    
-- **AI-Controlled Betting Markets Ensure Real-Time, Engaging, and Fair Betting**
-    
-    AI-driven betting markets attract user participation by offering dynamic and entertaining betting options. With AI managing odds and market creation, the system maintains fairness and flexibility. Handing full control of betting to AI enables the generation of engaging betting targets—similar to live football matches where various real-time bets become available.
-    
-- **AI Predictions + Human Feedback Create a Reinforcement Learning Data Flywheel**
-    
-    We have chosen Ai.apt as the first product for Synaphex AI because its core mechanism—AI predictions, user bets, user comments, and final prediction results—generates structured data that significantly enhances AI model training. This approach aims to build the most powerful AI Agent in the Crypto market.、
+- **Viral Growth with AIGC Short Videos**
+
+    Crypto users are highly interested in market predictions. By using AI to analyze trends and create short videos with personalized voiceovers, we enhance the viral potential of our AI Agent’s content on social media.
+
+- **AI-Controlled Betting Markets for Real-Time, Fair Betting**
+
+    AI-driven betting markets offer engaging and flexible options. By managing odds and market creation, AI ensures fairness and keeps the experience dynamic, similar to live sports betting with real-time options.
+
+- **AI Predictions + Human Feedback = Reinforcement Learning Flywheel**
+
+    ai.apt is the first product for Synaphex AI, designed to generate structured data through AI predictions, user bets, comments, and results. This data boosts AI model training, helping create the most powerful AI Agent in the Crypto market.
 
 ---
 
