@@ -162,7 +162,7 @@ class VideoGenerator:
                 print(f"generate_voice error: {str(e)},  retry {retry}/{max_retry}...")
         raise
 
-    def add_subtitle_with_pillow(self, frame, text, fontsize=60, color=(0, 255, 255)):  # 字体颜色
+    def add_subtitle_with_pillow(self, frame, text, fontsize=60, color=(0, 255, 255)):  
         from PIL import Image, ImageDraw, ImageFont
         import numpy as np
 
