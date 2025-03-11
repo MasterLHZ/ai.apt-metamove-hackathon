@@ -66,9 +66,16 @@ By integrating AI-driven predictions, user interactions, and market outcomes, we
 
 ### **PowerPoint**
 
+[ai.apt for metamove hackathon (slides).pptx](https://github.com/user-attachments/files/19175439/ai.apt.for.metamove.hackathon.slides.pptx)
+
 ---
 
 
-### **Products**
+### **Product**
+<img width="253" alt="图片 1" src="https://github.com/user-attachments/assets/3a9e6ae5-de00-4180-9865-fef8d73d4dfc" />
+<img width="260" alt="图片 2" src="https://github.com/user-attachments/assets/c2b9e197-75b9-4e75-828d-a197ab25c461" />
+<img width="576" alt="图片 4" src="https://github.com/user-attachments/assets/5aa6dc15-34d1-4a12-a4c1-c10563d90caa" />
+<img width="400" alt="图片 5" src="https://github.com/user-attachments/assets/b430acaa-0b41-463c-85ee-24f76eeac7b5" />
+
 
 
