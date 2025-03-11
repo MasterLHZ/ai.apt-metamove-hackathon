@@ -60,7 +60,7 @@ By integrating AI-driven predictions, user interactions, and market outcomes, we
 ---
 
 ### **Demo Video**
-
+https://www.loom.com/share/5bbf8345bd664cc5903d68abb2793fe0?sid=fe365784-3bcf-44cd-bc75-35968d42c845
 
 ---
 
